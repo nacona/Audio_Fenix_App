@@ -1,9 +1,9 @@
 # Audio_Fenix_App
 
-## Tabla de contenido
+## Indice
 
-1. [Departamento de Algoritmos de Imagen](#departamento)
-2. [Modelos Utilizados](#modelos)
+1. [Introducción](#introduccion)
+2. [Departamento de Algoritmos de Audio](#algoritmo)
 3. [Software & librerias utilizadas](#software)
 4. [Datasets](#datasets)
     1. [Lista de Open Datasets](#opendata)
@@ -11,7 +11,7 @@
 5. [Resultados](#resultados)
 
 
-## Departamento de Algoritmos de Imagen <a name="departamento"></a>
+## Departamento de Algoritmos de Imagen <a name="introduccion"></a>
 
 Nuestro rol dentro del proyecto que gira en torno al Hackathon 4 y el desarrollo de la aplicación FENIX estaba encuadrado dentro del departamento de Imagen donde nos hemos encargado del desarrollo de los algoritmos de imagen que van a formar parte de la aplicación final. 
 
@@ -31,7 +31,7 @@ Este repo contiene los diferentes modelos que hemos desarrollado para cumplir co
  
 * Implementar / crear un modelo que fuera capaz de **identificar si una persona lleva o no una mascarilla puesta**
 
-## Modelos Utilizados <a name="modelos"></a>
+## Modelos Utilizados <a name="algoritmo"></a>
 
 Los siguientes modelos han sido implementados para cumplir la función de detección de objetos para nuestros diferentes casos de uso:
 
