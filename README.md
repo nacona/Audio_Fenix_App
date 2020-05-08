@@ -23,7 +23,7 @@ Nuestro principal cometido en el desarrollo de los algoritmos de imagen era basa
  
 Este repo contiene los diferentes modelos que hemos desarrollado para cumplir con los siguientes cometidos que nos habían sido encargados:
 
-* Implementar un modelo que fuera capaz de **detectar caras**
+* Implementar un modelo que fuera capaz de detectar caras
  
 * Implementar un modelo que fuera capaz de **detectar manos**
  
